@@ -1,7 +1,7 @@
 **Protein Data Extractor from UniProt**
 
 **_Overview_**
-Protein Data Extractor from UniProt is a Python-based tool designed to efficiently retrieve protein information from the UniProt database using accession numbers. This script automates the process of extracting key protein details, including the protein name, organism name, and chromosome information.
+Protein Data Extractor is a Python-based tool designed to efficiently retrieve protein information from the UniProt database using accession numbers. This script automates the process of extracting key protein details, including the protein name, organism name, and chromosome information.
 
 This project was developed during the Master's classes in Applied Bioinformatics as a practical exercise to demonstrate efficient data extraction and error handling from public biological databases.
 
